@@ -1,16 +1,19 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Khuspe</h1>
+<h1 align="center">Hi 👋, I'm Vaibhav</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Learner;Cyber+Security+Enthusiast;Building+Real+World+Projects">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhav_khuspe_07&show_icons=true&theme=tokyonight" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Learner;Cyber+Security+Enthusiast;Building+Real+World+Projects">
 </p>
 
-💻 Full Stack Developer  
-🌱 Learning MERN Stack
-🚀 Building Real Projects  
-📍 Pune, India
+---
+
+## 🚀 About Me
+
+- 🌱 Learning MERN Stack & Cyber Security
+- 💻 Passionate about Web Development
+- 🚀 Building Real World Projects
+- 📍 Pune, India
+
+---
 
 ## 🚀 Tech Stack
 
@@ -20,4 +23,27 @@
 
 ---
 
-![snake gif](https://github.com/vaibhav_khuspe_07/vaibhav_khuspe_07/blob/output/github-contribution-grid-snake.svg)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhav_khuspe_07&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav_khuspe_07&theme=tokyonight" />
+</p>
+
+---
+
+## ⚡ Top Projects
+
+- 🛒 Amazon Clone
+- 🌐 Portfolio Website
+- 🌦 Weather App
+- 🔐 Login Authentication System
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/vaibhav_khuspe_07
