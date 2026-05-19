@@ -26,11 +26,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhav_khuspe_07&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavkhuspe07&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav_khuspe_07&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavkhuspe07&theme=tokyonight" />
 </p>
 
 ---
@@ -46,4 +46,4 @@
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/vaibhav_khuspe_07
+- GitHub: https://github.com/vaibhavkhuspe07
